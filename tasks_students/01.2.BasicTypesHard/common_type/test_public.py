@@ -1,10 +1,9 @@
 import dataclasses
 import typing as tp
-
 import pytest
 import testlib
-
 from .common_type import get_common_type
+
 
 
 @dataclasses.dataclass
